@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "type": "img",
+            "user": "midu.dev",
+            "story": true,
+            "avatar": "https://midu.dev/favicon/apple-touch-icon.png",
+            "content": "https://camo.githubusercontent.com/999b7125fa3536155286587b8fb2b12a7d6303874878bf34d7aea8a1c0bbfffb/687474703a2f2f69332e7974696d672e636f6d2f76692f5873786d385f42493633732f6d617872657364656661756c742e6a7067",
+            "likes": 45711,
+            "comments": 156,
+            "time": "2 days ago"
+        },
+        {
+            "type": "video",
+            "user": "hidaldev",
+            "story": true,
+            "avatar": "https://scontent.fsal3-1.fna.fbcdn.net/v/t39.30808-6/266457513_4524355897660106_5449813603385784271_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHDo3CtGZUmbmO92Iy87jXtCt_mLhImYpgK3-YuEiZimI2TVedlH4L-jPWK9tztxSoSmeAaRZdNuhXpH1NS_SZ0&_nc_ohc=DW0jZtwkQd8AX9GWEvG&_nc_ht=scontent.fsal3-1.fna&oh=00_AT8UqqOlwVo_-dqPIwXzGgV4jF0LpCU-bh7750qO1dJh-g&oe=6253261B",
+            "content": "./videodev.mp4",
+            "likes": 87,
+            "comments": 11,
+            "time": "6 days ago"
+        }
+    ]
+}
